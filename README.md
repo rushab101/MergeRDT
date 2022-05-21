@@ -29,6 +29,8 @@
   <a href="#Contribute">Contribute</a>
   — 
   <a href="#credits">Special Thanks</a>
+   — 
+  <a href="#summary">Summary</a>
   — 
   <a href="#license">License</a>
 </div>
@@ -943,7 +945,17 @@ We greatly apperciate anyone who contributes or leaves feedback.
 
 <h2 id="credits">👏 Special Thanks</h2>                   
 Special thanks to all the individuals, projects, creators and developers who have created awesome software for which we were able to build our library off of. A detailed list can be found in acknowledgements.txt.                   
-                   
+
+<h2 id="summary">📖 Summary</h2>  
+The image below highlights the key components of this open source library
+
+<h1 align="center">
+  <img src=https://i.ibb.co/bXShyDC/Capstone-Board-Print-Edition.jpg"></a>
+</h1>
+
+
+                
+                
 <h2 id="license"> 📝 License </h2>
 MIT License
 
