@@ -947,7 +947,7 @@ We greatly apperciate anyone who contributes or leaves feedback.
 Special thanks to all the individuals, projects, creators and developers who have created awesome software for which we were able to build our library off of. A detailed list can be found in acknowledgements.txt.                   
 
 <h2 id="summary">📖 Summary</h2>  
-The image below highlights the key components of this open source library: https://mergerdt.tiiny.site/ (Click here for more clear image)
+The image below highlights the key components of this open source library: https://mergerdt.tiiny.site/ <--(Click here for more clear image)
 
 <h1 align="center">
   <img src=https://i.ibb.co/bXShyDC/Capstone-Board-Print-Edition.jpg"></a>
